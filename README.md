@@ -10,27 +10,16 @@ black sea sprat, striped red mullet, trout, and shrimp image samples. Dataset fr
 
 ## Steps to CNN
 1. Import Libraries
-
 2. Create List of Classes
-
 3. Transform into Pandas Dataset
-
 4. Create Transform Variable
-
 5. Convert Classes to Ints
-
 6. Create Dataset Object
-
 7. Convert Pandas to PyTorch Dataset
-
 8. Visualize Image
-
 9. Set Hyperparameters
-
 10. Split Dataset
-
 11. Conv Net Class
-
 12. Train Model
 
 [Code](Fish_CNN.ipynb)
